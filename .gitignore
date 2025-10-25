@@ -1,0 +1,14 @@
+# --- Critical Folders and Dependencies ---
+/node_modules
+/package-lock.json
+
+# --- Build and Cache Folders ---
+/build
+/dist
+.vscode/
+
+# --- Folders you wanted to untrack and exclude from Git ---
+my-app/
+task1/
+toast/
+demo/
