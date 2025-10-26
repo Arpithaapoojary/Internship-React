@@ -7,7 +7,11 @@ const App = () => {
     <div>
       <button onClick={notify}>Make me a toast</button>
       <Toaster />
-      hello
+      hello arpitha hii
+      <b>hello</b>
+      <div>
+        <h1>hii</h1>
+      </div>
     </div>
   );
 };

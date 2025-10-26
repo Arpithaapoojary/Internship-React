@@ -8,7 +8,6 @@
 .vscode/
 
 # --- Folders you wanted to untrack and exclude from Git ---
-my-app/
-task1/
+
 toast/
 demo/
